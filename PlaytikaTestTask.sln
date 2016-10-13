@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlaytikaTestTask", "PlaytikaTestTask\PlaytikaTestTask.csproj", "{BB17F56B-1FE3-4C5B-946C-90478D75B890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{86E981F5-F609-4ADC-9C0B-05EC2B33A85E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB17F56B-1FE3-4C5B-946C-90478D75B890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB17F56B-1FE3-4C5B-946C-90478D75B890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB17F56B-1FE3-4C5B-946C-90478D75B890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB17F56B-1FE3-4C5B-946C-90478D75B890}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E981F5-F609-4ADC-9C0B-05EC2B33A85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E981F5-F609-4ADC-9C0B-05EC2B33A85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E981F5-F609-4ADC-9C0B-05EC2B33A85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E981F5-F609-4ADC-9C0B-05EC2B33A85E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
